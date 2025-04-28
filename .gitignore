@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 new_plant/
+leaf_segmentation/
+segformer-b0-finetuned-ade-512-512/
+deeplabv3/
+checkpoints/
+outputs/
+results/
+
+best_model.pth
+mit_b0.pth
 
 # Distribution / packaging
 .Python
