@@ -12,6 +12,8 @@ deeplabv3/
 checkpoints/
 outputs/
 results/
+segformer-b0-finetuned-ade-512-512/
+best_model.pth
 
 best_model.pth
 mit_b0.pth
@@ -182,3 +184,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+datasets_links.txt
