@@ -11,6 +11,7 @@ segformer-b0-finetuned-ade-512-512/
 deeplabv3/
 checkpoints/
 outputs/
+outputs_old/
 results/
 segformer-b0-finetuned-ade-512-512/
 best_model.pth
@@ -20,6 +21,8 @@ Tomato___Early_blight1.JPG
 
 best_model.pth
 mit_b0.pth
+photo_5228991111308113091_y.jpg
+photo_5228991111308113096_m.jpg
 
 # Distribution / packaging
 .Python
