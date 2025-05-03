@@ -19,7 +19,6 @@ best_model.onnx
 best_model.pt
 Tomato___Early_blight1.JPG
 
-best_model.pth
 mit_b0.pth
 photo_5228991111308113091_y.jpg
 photo_5228991111308113096_m.jpg
@@ -192,3 +191,8 @@ cython_debug/
 .pypirc
 
 datasets_links.txt
+
+vgg19_plant_disease.pth
+best_resnet50_model.pth
+best_inceptionv3.pth
+best_model_vgg19.pth
