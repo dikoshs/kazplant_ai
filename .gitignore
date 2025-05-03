@@ -8,12 +8,10 @@ __pycache__/
 new_plant/
 leaf_segmentation/
 segformer-b0-finetuned-ade-512-512/
-deeplabv3/
 checkpoints/
 outputs/
 outputs_old/
 results/
-segformer-b0-finetuned-ade-512-512/
 best_model.pth
 best_model.onnx
 best_model.pt
